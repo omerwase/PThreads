@@ -1,2 +1,2 @@
 # PThreads
-Parallel programming in C using Pthreads
+Parallel string construction with property verification using PThreads in C
