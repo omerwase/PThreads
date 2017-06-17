@@ -10,5 +10,5 @@ During each append, S is checked to ensure a certian property is met or can be m
   - Property 1: |c0| + |c1| = |c2|
   - Property 2: |c0| + 2 x |c1| = |c2|
   - Property 3: |c0| x |c1| = |c2|
-  - Property 4: |c0| - |c1| = |c2|
-Upon completetion of S each segment is checked to ensure the property is met and the final string is printed.  
+  - Property 4: |c0| - |c1| = |c2|  
+Upon completetion of S each segment is checked to ensure the property is met and the final string is printed.   
