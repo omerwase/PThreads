@@ -1,5 +1,6 @@
 # PThreads
 Multithread string construction with property verification using PThreads in C.  
+   
 Usage: ./pa1.x (property #) N L M c0 c1 c2.  
 ## Program function:
 The program creates a string S with M segments, each of length L (|S| = M x L) using 3 <= N <= 8 threads.  
