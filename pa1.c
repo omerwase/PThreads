@@ -34,7 +34,7 @@ int main(int argc, char **argv) {
 	FILE *f;
 	
 	// check for valid number of arguments
-	if (argc == 7) {
+	if (argc != 8) {
 		
 		printf("Invalid input.\n");
 		return 0;
